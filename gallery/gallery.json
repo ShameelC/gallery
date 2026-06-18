@@ -1,0 +1,98 @@
+[
+{
+"id": 1,
+"title": "Photo 1",
+"image": "https://res.cloudinary.com/dubid72qi/image/upload/f_auto,q_auto,w_1600/v1781759847/photo1_hhrgca.jpg",
+"source": "Instagram",
+"post_url": "https://www.instagram.com/p/DY43nKdmePs/",
+"category": "Photography",
+"location": "Kerala"
+},
+{
+"id": 2,
+"title": "Photo 2",
+"image": "https://res.cloudinary.com/dubid72qi/image/upload/f_auto,q_auto,w_1600/v1781759909/photo5_gvly6a.jpg",
+"source": "Instagram",
+"post_url": "https://www.instagram.com/p/DHbbv98vC_Y/",
+"category": "Photography",
+"location": "Kerala"
+},
+
+
+{
+"id": 3,
+"title": "Photo 3",
+"image": "https://res.cloudinary.com/dubid72qi/image/upload/f_auto,q_auto,w_1600/v1781759920/photo4_eg3pdn.jpg",
+"source": "Instagram",
+"post_url": "https://www.instagram.com/p/DSkh64tDVY8/",
+"category": "Photography",
+"location": "Kerala"
+},
+{
+"id": 4,
+"title": "Photo 4",
+"image": "https://res.cloudinary.com/dubid72qi/image/upload/f_auto,q_auto,w_1600/v1781759927/photo6_jz33zd.jpg",
+"source": "Instagram",
+"post_url": "https://www.instagram.com/p/DSkh64tDVY8/",
+"category": "Photography",
+"location": "Kerala"
+},
+{
+"id": 5,
+"title": "Photo 5",
+"image": "https://res.cloudinary.com/dubid72qi/image/upload/f_auto,q_auto,w_1600/v1781759900/photo3_asclnt.webp",
+"source": "Instagram",
+"post_url": "https://www.instagram.com/p/C8o_SuMP_ar/",
+"category": "Photography",
+"location": "Kerala"
+},
+{
+"id": 6,
+"title": "Photo 6",
+"image": "https://res.cloudinary.com/dubid72qi/image/upload/f_auto,q_auto,w_1600/v1781759891/photo2_n7tsg2.webp",
+"source": "Instagram",
+"post_url": "https://www.instagram.com/p/CohEBIJPFTJ/",
+"category": "Photography",
+"location": "Kerala"
+},
+{
+"id": 7,
+"title": "Photo 7",
+"image": "https://res.cloudinary.com/dubid72qi/image/upload/v1781765983/photo7_e9j1kn.jpg",
+"source": "Instagram",
+"post_url": "https://www.instagram.com/p/DId8BfhPFCL/",
+"category": "Photography",
+"location": "Kerala"
+},
+
+{
+"id": 8,
+"title": "Photo 8",
+"image": "https://res.cloudinary.com/dubid72qi/image/upload/v1781765986/photo8_rv8yps.jpg",
+"source": "Instagram",
+"post_url": "https://www.instagram.com/p/DH8lufdPppr/",
+"category": "Photography",
+"location": "Kerala"
+},
+
+{
+"id": 9,
+"title": "Photo 9",
+"image": "https://res.cloudinary.com/dubid72qi/image/upload/v1781765993/photo9_xryk51.jpg",
+"source": "Instagram",
+"post_url": "https://www.instagram.com/p/DFVCV0-IP3F/",
+"category": "Photography",
+"location": "Kerala"
+},
+
+{
+"id": 10,
+"title": "Photo 10",
+"image": "https://res.cloudinary.com/dubid72qi/image/upload/v1781765998/photo10_ytw4jk.jpg",
+"source": "Instagram",
+"post_url": "https://www.instagram.com/p/DFVCV0-IP3F/",
+"category": "Photography",
+"location": "Kerala"
+}
+
+]
