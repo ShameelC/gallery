@@ -93,6 +93,26 @@
 "post_url": "https://www.instagram.com/p/DFVCV0-IP3F/",
 "category": "Photography",
 "location": "Kerala"
+},
+
+  {
+"id": 11,
+"title": "Photo 11",
+"image": "https://res.cloudinary.com/dubid72qi/image/upload/v1781861823/photo11_bi5sug.jpg",
+"source": "Instagram",
+"post_url": "https://www.instagram.com/p/DWHWLOXE6lH/",
+"category": "Photography",
+"location": "Kerala"
+},
+
+  {
+"id": 12,
+"title": "Photo 12",
+"image": "https://res.cloudinary.com/dubid72qi/image/upload/v1781861823/photo12_buhkjk.jpg",
+"source": "Instagram",
+"post_url": "https://www.instagram.com/p/DH8lufdPppr/",
+"category": "Photography",
+"location": "Kerala"
 }
 
 ]
